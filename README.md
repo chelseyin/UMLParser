@@ -33,17 +33,3 @@ Run Configurations on src/main/Main.java to use these commands
 
 -class javax.swing.JComponent -Private
 ```
-
-## Contribution
-
-### Kaiyu Xie
-Design UML  
-Implement Parser, ParserM1  
-Implement Main, MyClassReader  
-
-### Chen Yin
-Design UML  
-Implement Drawer, DrawerM1  
-Implement plantuml svg convention  
-
-## UML Diagram
